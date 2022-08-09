@@ -5,7 +5,7 @@ flex布局父项常见属性:
     4、align-content:设置侧轴上的子元素排列方式（多行）
     5、align-items : 设置侧轴上的子元素排列方式（单行）
     6、flex-flow :复合属性,相当于同时设置了flex-direction和flex-wrap
-flex布局常见子项常见属性：
+flex布局常见子项常见属性:
     1、flex子项目占的份额
     2、align-self控制子项目自己在侧轴的排列方式
-    3、order属性定义子项的排列顺序（先后顺序）
+    3、order属性定义子项的排列顺序(先后顺序)
